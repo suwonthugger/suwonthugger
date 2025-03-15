@@ -4,6 +4,7 @@
 ### 🖥️  Experience
 
 * **토스증권 Frontend Developer Assistant (2025.03 ~ 2025.06)**
+* **코코넛 사일로 플랫폼 개발파트(APP/WEB) (2024.08 ~ 2024.12)**
 
 ### ✏️  Activity
 * 대학생 연합동아리 [SOPT Makers](https://github.com/sopt-makers) 36기 (2025.02 ~ NOW)
